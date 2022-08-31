@@ -1,0 +1,18 @@
+{
+   "hakgwa":[
+      {
+         "id":"비호생활관",
+         "name":"비호생활관",
+         "url" : "https://dorm.daegu.ac.kr/hakgwa_home/dorm/sub.php",
+         "haksa":"?menu=page&menu_id=32",
+         "etc":"?menu=page&menu_id=33"
+      },
+      {
+         "id":"영재원",
+         "name":"정보보호영재교육원",
+         "url":"https://star.daegu.ac.kr/hakgwa_home/star/sub.php",
+         "haksa":"?menu=page&menu_id=1011",
+         "etc":"?menu=page&menu_id=1024"
+      }
+   ]
+}

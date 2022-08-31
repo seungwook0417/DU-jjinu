@@ -1,0 +1,9 @@
+{
+  "account": {
+    "chatID": "채널 ID",
+    "token": "Telegram Bot Token"
+  },
+  "store_cnt": 100,
+  "no_get_page": 5,
+  "first_run": false
+}
